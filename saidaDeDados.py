@@ -15,3 +15,12 @@ print(5 ** 2)
 
 #modulo
 print(10%2) 
+
+print("=====calculos aritméticos com variáveis=======")
+x = 20
+y = 5
+
+
+
+print(x/y)
+
